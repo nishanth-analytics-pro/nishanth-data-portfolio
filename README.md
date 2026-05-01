@@ -17,12 +17,13 @@
 
 - 🎓 **B.E. Electronics & Communication Engineering** — Mahendra Institute of Technology, Namakkal | **GPA: 9.25 / 10.0** | Batch 2027
 - 🏆 **MSME Hackathon 5.0 Winner** — ₹8 Lakhs Government Grant from Ministry of MSME (GoI)
-- 📊 Microsoft Certified **Power BI Data Analyst (PL-300)** & **Fabric Analytics Engineer (DP-600 | Score: 920/1000)**
+- 📊 Microsoft Certified **Power BI Data Analyst (PL-300)|Score:(890)** & **Fabric Analytics Engineer (DP-600)| Score: (920/1000)**
 - 🤖 **AI Club President** @ Mahendra Institute of Technology
 - 🌐 **IEEE YESIST12 2026 International Ambassador** | IEEE Student Member
 - 🏅 **ISTE Best Student Award 2025** | NIT Trichy Pragyan 2026 Winner
 - 🌟**Google Student Ambassdor 2026**
 - 📍 Salem, Tamil Nadu | Open to Chennai, Coimbatore & Remote
+- 📈 **NPTEL AI & DS Domain Mission in Progress**
 
 ---
 
