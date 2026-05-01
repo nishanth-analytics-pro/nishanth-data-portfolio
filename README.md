@@ -32,6 +32,8 @@
 | Power BI Data Analyst Associate — PL-300 | Microsoft | 890/1000| Dec 2024 |
 | Fabric Analytics Engineer Associate — DP-600 | Microsoft | **920 / 1000** | Apr 2026 |
 | Python for Data Science — ELITE | NPTEL / IIT Madras | Elite | Oct 2024 |
+| Data Science for Engineers|NPTEL|IIT Madras|Elite|March 2026|
+|Introduction To Large Language Model|IIT Banglore|Elite|April 2026|
 | Power BI Data Analyst Specialist | Microsoft / Coursera | — | Oct 2024 |
 | Data Analytics Professional Certificate | IBM | — | 2024 |
 | Data Analytics Simulation | Deloitte & Tata (Forage) | — | 2024 |
