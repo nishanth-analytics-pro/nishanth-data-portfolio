@@ -21,6 +21,7 @@
 - 🤖 **AI Club President** @ Mahendra Institute of Technology
 - 🌐 **IEEE YESIST12 2026 International Ambassador** | IEEE Student Member
 - 🏅 **ISTE Best Student Award 2025** | NIT Trichy Pragyan 2026 Winner
+- 🌟**Google Student Ambassdor 2026**
 - 📍 Salem, Tamil Nadu | Open to Chennai, Coimbatore & Remote
 
 ---
@@ -134,6 +135,7 @@
 | 🥇 MSME Hackathon 5.0 Winner | ₹8 Lakhs Govt Grant — Ministry of MSME (GoI) |
 | 🥇 NIT Trichy Pragyan 2026 | 1st Prize — National Industrial Automation Track (50+ teams) |
 | 🌐 IEEE YESIST12 2026 Ambassador | International Ambassador — Maker Fair Track |
+| 🌐Google Student Ambassdor|International Ambassador — Maker Fair Track
 | 🏛️ IIC Student Ambassador | Ministry of Education Innovation Cell |
 | 🏅 ISTE Best Student Award 2025 | Academic Excellence & Technical Leadership |
 | 🥇 Project Expo 2025 | Autonomous Water Surface Cleaning System |
